@@ -4,7 +4,6 @@ Oprissmian's Orbit Icons Pack is a great mod, but by default it only comes with 
 ## Dependencies
 
 ### Required
-- Kopernicus - https://github.com/kopernicus/kopernicus/releases
 - ModuleManager - https://github.com/sarbian/ModuleManager/releases
 - OrbitIconsPack - https://github.com/Oprissmian/OrbitIconsPack/releases
 
