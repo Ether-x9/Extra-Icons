@@ -13,7 +13,7 @@ Oprissmian's Orbit Icons Pack is a great mod, but by default it only comes with 
 - Kcalbeloh System - https://github.com/jcyuan06/Kcalbeloh-System/releases
 - Outer Planets Mod - https://github.com/Poodmund/Outer-Planets-Mod/releases
 - Minor Planets Expansion - https://github.com/ExosLab/Minor-Planets-Expansion/releases
-- Real Solar System - https://github.com/KSP-RO/RealSolarSystem
+- Real Solar System - https://github.com/KSP-RO/RealSolarSystem/releases
 
 ## Credits
 Thanks to Clayell for making the RSS icons.
