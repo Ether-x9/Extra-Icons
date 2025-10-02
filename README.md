@@ -15,5 +15,8 @@ Oprissmian's Orbit Icons Pack is a great mod, but by default it only comes with 
 - Minor Planets Expansion - https://github.com/ExosLab/Minor-Planets-Expansion/releases
 - Real Solar System - https://github.com/KSP-RO/RealSolarSystem
 
+## Credits
+Thanks to Clayell for making the RSS icons.
+
 ## License
 MIT
