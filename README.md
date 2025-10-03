@@ -1,5 +1,5 @@
 # Extra-Icons
-Oprissmian's Orbit Icons Pack is a great mod, but by default it only comes with support for the stock system and OPM. This mod aims to add OrbitIconsPack support for more mods. So far MPE, Kcalbeloh System, and RSS are included.
+Oprissmian's OrbitIconsPack is a great mod, but by default it only comes with support for the stock system and OPM. This mod aims to add OrbitIconsPack support for more mods. So far MPE, Kcalbeloh System, and RSS are included.
 
 ## Dependencies
 
@@ -16,7 +16,10 @@ Oprissmian's Orbit Icons Pack is a great mod, but by default it only comes with 
 - Real Solar System - https://github.com/KSP-RO/RealSolarSystem/releases
 
 ## Credits
-Thanks to Clayell for making the RSS icons.
+Credit to:
+- Oprissmian for making OrbitIconsPack
+- Respective mod creators for making the mods listed above
+- Clayell for making the RSS icons
 
 ## License
 MIT
