@@ -1,4 +1,4 @@
-# Extra-Icons
+# Extra Icons
 Oprissmian's OrbitIconsPack is a great mod, but by default it only comes with support for the stock system and OPM. This mod aims to add OrbitIconsPack support for more mods.
 
 ## Dependencies
