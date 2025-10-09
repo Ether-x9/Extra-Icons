@@ -15,6 +15,7 @@ Oprissmian's OrbitIconsPack is a great mod, but by default it only comes with su
 - Minor Planets Expansion - https://github.com/ExosLab/Minor-Planets-Expansion/releases
 - Real Solar System - https://github.com/KSP-RO/RealSolarSystem/releases
 - OPX-JoolPlus - https://github.com/TheMinmusDerp/OPX-JoolPlus/releases
+- OPX-SarnusPlus - https://github.com/TheMinmusDerp/OPX-SarnuslPlus/releases
 
 ## Credits
 Credit to:
