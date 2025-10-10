@@ -2,6 +2,7 @@
 #### v1.3 - TBD
 - Added OPX-JoolPlus configs
 - Added OPX-SarnusPlus configs
+- Added OPX-UrlumPlus configs
 #### v1.2 - 5 October 2025
 - Removed the stock configs, since they were already included in the base OrbitIconsPack configs
 - Removed configs from the OPM file, same reason as above
