@@ -14,8 +14,7 @@ Oprissmian's OrbitIconsPack is a great mod, but by default it only comes with su
 - Outer Planets Mod - https://github.com/Poodmund/Outer-Planets-Mod/releases
 - Minor Planets Expansion - https://github.com/ExosLab/Minor-Planets-Expansion/releases
 - Real Solar System - https://github.com/KSP-RO/RealSolarSystem/releases
-- OPX-JoolPlus - https://github.com/TheMinmusDerp/OPX-JoolPlus/releases
-- OPX-SarnusPlus - https://github.com/TheMinmusDerp/OPX-SarnuslPlus/releases
+- Outer Planets Expansion suite - https://forum.kerbalspaceprogram.com/topic/225300-112x-planet-pack-outer-planets-expansion-opx/ (so far only JoolPlus and SarnusPlus are supported)
 
 ## Credits
 Credit to:
