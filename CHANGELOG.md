@@ -1,5 +1,7 @@
 # Extra Icons changelog
-#### v1.3 - TBD
+### v1.3.1 - 22 October 2025
+- Fixed dates in the changelog
+#### v1.3 - 16 October 2025
 - Added icons for the following OPX mods: JoolPlus, SarnusPlus, UrlumPlus, NeidonPlus
 #### v1.2 - 5 October 2025
 - Removed the stock configs, since they were already included in the base OrbitIconsPack configs
