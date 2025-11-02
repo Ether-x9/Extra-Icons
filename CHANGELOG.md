@@ -1,4 +1,6 @@
 # Extra Icons changelog
+#### v1.4 - in development
+- Added icons for OPX-InnerWorlds
 #### v1.3.1 - 22 October 2025
 - Fixed dates in the changelog
 #### v1.3 - 16 October 2025
